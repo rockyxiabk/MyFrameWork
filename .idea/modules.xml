@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyFrameWork.iml" filepath="$PROJECT_DIR$/MyFrameWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullToRefreshLibrary/PullToRefreshLibrary.iml" filepath="$PROJECT_DIR$/PullToRefreshLibrary/PullToRefreshLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PulltozoomrefreshLibrary/PulltozoomrefreshLibrary.iml" filepath="$PROJECT_DIR$/PulltozoomrefreshLibrary/PulltozoomrefreshLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlideBackLibrary/SlideBackLibrary.iml" filepath="$PROJECT_DIR$/SlideBackLibrary/SlideBackLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewpagerindicatorLibrary/ViewpagerindicatorLibrary.iml" filepath="$PROJECT_DIR$/ViewpagerindicatorLibrary/ViewpagerindicatorLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
